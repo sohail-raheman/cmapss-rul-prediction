@@ -68,7 +68,7 @@ These results are limited by the use of a single sub-dataset (FD001), scoring wi
 1. Clone the repo:
    ```bash
    git clone https://github.com/sohail-raheman/cmapss-rul-prediction.git
-   cd <repo-folder>
+   cd cmapss-rul-prediction
    ```
 2. Dependencies: Python 3.13 (tested), numpy, pandas, matplotlib, seaborn, scikit-learn v1.4 or newer, and Jupyter notebook
    ```bash
