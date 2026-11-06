@@ -1,4 +1,6 @@
+.ipynb_checkpoints/
+__pycache__/
 /lessons_learned.txt
-/README.txt
 /data
 /NASA_C_MAPSS_RUL_prediction.code-workspace
+mlflow.db
